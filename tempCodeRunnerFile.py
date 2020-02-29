@@ -1,0 +1,1 @@
+mean_squared_error(diabetes_y_test,diabetes_y_predict))
